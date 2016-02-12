@@ -1,0 +1,1 @@
+A fonte do Cronometro é a Helvetica75 Bold, ela está aqui nos arquivos e o tamanho usado foi 120 (mas acho o tamanho será diferente no Unity, então é sobrepor e botar o mais parecido possível).
